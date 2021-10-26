@@ -49,6 +49,12 @@ const config: BunyanElegantConfig = {
 const stream = new BunyanElegant(config)
 ```
 
+## Watch & Build
+```
+npm watch
+npm build
+```
+
 ## License
 
 MIT
