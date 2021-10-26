@@ -1,0 +1,5 @@
+src
+.eslint*
+.prettier*
+tsconfig*
+screenshot.png
