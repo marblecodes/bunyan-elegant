@@ -34,6 +34,8 @@ logger.debug('Doing graceful shutdown')
 ## Default configuration
 
 ```typescript
+import BunyanElegant, { BunyanElegantConfig } from '@marblecodes/bunyan-elegant'
+
 const config: BunyanElegantConfig = {
   timestampFormat: 'HH:mm:ss',
   colors: {
